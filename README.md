@@ -1,6 +1,6 @@
 # 🚀 Ujwal Akare — Personal Portfolio
 
-> **Live Site:** [ujwalakare.github.io](https://ujwalakare.github.io) *(update once deployed)*  
+> **Live Site:** http://ujwalakare.in/ *(update once deployed)*  
 > Lead Software Engineer & DevOps Specialist at Persistent Systems, Pune, India.
 
 ---
